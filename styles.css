@@ -23,10 +23,12 @@ nav {
   align-items: center;
   background-color: gray;
   padding: 10px;
-  border-radius: 10px;
+  border-radius: 20px;
 }
 
+
 .searchInput {
+  outline:none ;
   border: none;
   background-color: transparent;
 }
